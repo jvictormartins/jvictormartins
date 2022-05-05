@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jaum 👋
 
 - 🌱 I’m currently learning Java and Spring
 - 👯 I’m looking to collaborate on Java Projects
@@ -6,4 +6,5 @@
 - 📫 How to reach me: jvictorweb@gmail.com / Wpp+5541998182805
  <!-- - ⚡ Fun fact: --> 
 <br>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaoskywalker&show_icons=true&locale=en&layout=compact" alt="jaoskywalker" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaoskywalker&layout=compact)](https://github.com/jaoskywalker/github-readme-stats)
