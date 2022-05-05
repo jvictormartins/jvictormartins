@@ -6,5 +6,4 @@
 - 📫 How to reach me: jvictorweb@gmail.com / Wpp+5541998182805
  <!-- - ⚡ Fun fact: --> 
 <br>
-
-&nbsp <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaoskywalker&show_icons=true&locale=en&layout=compact" alt="jaoskywalker" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaoskywalker&show_icons=true&locale=en&layout=compact" alt="jaoskywalker" /></p>
